@@ -1,16 +1,20 @@
-# i3
-home for scripts, configs, etc
+## i3 scripts, configs, etc
 
-dependencies
-============
+### config 
 
-# what I currently have re: deps, more formal coming soon
-i3-py==0.6.4
-docopt==0.6.2 
+###### TODO
 
 
-migrate_workspaces.py
----------------------
+### dependencies
+
+
+###### what I currently have re: deps, more formal coming soon
+- i3-py==0.6.4
+- docopt==0.6.2 
+
+
+##### migrate_workspaces.py
+
 
 ```bash
 migrate_workspaces.py (left|right) <exclude>...
